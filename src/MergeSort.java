@@ -1,5 +1,3 @@
-package com.travel.travelapi;
-
 public class MergeSort {
 
     public static void main(String[] args){
